@@ -1,5 +1,4 @@
-### Hi there 👋
-### Wajeeha
+### Hi there
 
 Hi! I'm Wajeeha, a passionate bioinformatics student at NUST, eager to explore the intersection of biology and computer science. I'm fascinated by the potential of computational tools to unravel the mysteries of life and contribute to advancements in healthcare.
 
